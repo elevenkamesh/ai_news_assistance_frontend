@@ -34,7 +34,7 @@ A beautiful, production-ready chat interface built with React, TypeScript, and T
 1. **Clone the repository**
    ```bash
    git clone <your-repo-url>
-   cd gpt-chat-interface
+   cd <folder name>
    ```
 
 2. **Install dependencies**
